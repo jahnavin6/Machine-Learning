@@ -1,0 +1,43 @@
+Name : Nuthalapati Jahnavi
+Mav ID : 1001827251
+Net ID : jxn7251
+----------------------------------------------------------------------------------
+
+List of files present
+
+project3_report.pdf
+Assign3_jxn7251_(1).ipynb
+readme.txt
+iris.data
+
+----------------------------------------------------------------------------------
+
+Software/Platform Used : Anaconda-Navigator (Jupiter Notebook) /Google Collaboratory
+Programming Language Used : Python
+
+----------------------------------------------------------------------------------
+
+Note
+
+-- Execution in order (line to line) is important. If not, it may result in errors.
+
+-- Upload iris.data into the colab
+
+-- Kindly make sure that all the relevant libraries and version are installed and updated when opened in respective notebooks to run the code.
+
+----------------------------------------------------------------------------------
+
+Execution steps
+1) Unzip the folder
+2) Open Jupiter Notebook in Anaconda--Navigator /Google Colab in a web browser
+3) Upload the file "Assign3_jxn7251_(1).ipynb" from the unzipped folder "1001827251_project3"
+4) Then Run the Kernel, by clicking on "Run" and allow few minutes to view the result.
+
+References :
+1. https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
+2. https://en.wikipedia.org/wiki/Iris_flower_data_set
+3. https://www.analyticsvidhya.com/blog/2020/10/a-simple-explanation-of-k-means-clustering/
+4. https://www.tutorialspoint.com/matplotlib/matplotlib_three_dimensional_plotting.htm
+5. https://towardsdatascience.com/matplotlib-tutorial-with-code-for-pythons-powerful-data-visualization-tool-8ec458423c5e
+6. https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html
+
